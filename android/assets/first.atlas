@@ -1,0 +1,104 @@
+
+first.png
+size: 725,1287
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catend
+  rotate: false
+  xy: 2, 2
+  size: 721, 1283
+  orig: 721, 1283
+  offset: 0, 0
+  index: 0
+
+first2.png
+size: 725,1287
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catend
+  rotate: false
+  xy: 2, 2
+  size: 721, 1283
+  orig: 721, 1283
+  offset: 0, 0
+  index: 1
+
+first3.png
+size: 725,1287
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catend
+  rotate: false
+  xy: 2, 2
+  size: 721, 1283
+  orig: 721, 1283
+  offset: 0, 0
+  index: 2
+
+first4.png
+size: 725,1287
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catend
+  rotate: false
+  xy: 2, 2
+  size: 721, 1283
+  orig: 721, 1283
+  offset: 0, 0
+  index: 3
+
+first5.png
+size: 725,1287
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catend
+  rotate: false
+  xy: 2, 2
+  size: 721, 1283
+  orig: 721, 1283
+  offset: 0, 0
+  index: 4
+
+first6.png
+size: 725,1287
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catend
+  rotate: false
+  xy: 2, 2
+  size: 721, 1283
+  orig: 721, 1283
+  offset: 0, 0
+  index: 5
+
+first7.png
+size: 725,1287
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catend
+  rotate: false
+  xy: 2, 2
+  size: 721, 1283
+  orig: 721, 1283
+  offset: 0, 0
+  index: 6
+
+first8.png
+size: 725,1287
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catend
+  rotate: false
+  xy: 2, 2
+  size: 721, 1283
+  orig: 721, 1283
+  offset: 0, 0
+  index: 7
